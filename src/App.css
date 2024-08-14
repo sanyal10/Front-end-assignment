@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.Table{
+  margin:10%;
+  position: fixed;
+  overflow: hidden;
+
+}
